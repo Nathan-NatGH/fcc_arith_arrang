@@ -73,3 +73,5 @@ def arithmetic_arranger(raw_raw_list, compute):
 
 
 arithmetic_arranger(given_list, True)
+
+# ok
